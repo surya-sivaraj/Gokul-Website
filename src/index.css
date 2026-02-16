@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #3398db;
+  --color-success-green: #27ae60;
+  --color-background-light: #ffffff;
+  --color-background-alt: #f8fafc;
+  --color-text-dark: #1e293b;
+  --color-text-muted: #64748b;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+@keyframes slide {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-slide {
+  animation: slide 20s linear infinite;
+}
+
