@@ -1,8 +1,8 @@
 import { useState } from "react";
-import g1 from "../assets/work1.jpg";
-import g2 from "../assets/work4.jpg";
-import g3 from "../assets/work2.jpg";
-import g4 from "../assets/work5.jpg";
+import g1 from "../assets/work11.jpg";
+import g2 from "../assets/work41.jpg";
+import g3 from "../assets/work21.jpg";
+import g4 from "../assets/work51.jpg";
 
 const Gallery = () => {
   const images = [g1, g2, g3, g4];
@@ -72,7 +72,7 @@ const Gallery = () => {
           >
             <img
               src={selectedImage}
-              alt="Full View"
+              alt="Under Working"
               className="w-full rounded-2xl shadow-2xl"
             />
 
