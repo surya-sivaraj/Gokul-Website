@@ -10,7 +10,7 @@ const Header = () => {
     });
 
     setTimeout(() => {
-      window.location.href = "tel:+917449077343";
+      window.location.href = "tel:+917695948501";
     }, 1200);
   };
 
@@ -60,7 +60,7 @@ const Header = () => {
           {/* Call Button */}
           <div className="flex items-center gap-3">
             <a
-              href="tel:+919876543210"
+              href="tel:+917695948501"
               onClick={handleCall}
               className="bg-emerald-600 hover:bg-emerald-700 active:scale-95 
                          text-white px-6 py-2.5 rounded-lg font-semibold 

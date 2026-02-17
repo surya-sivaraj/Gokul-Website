@@ -27,7 +27,7 @@ const Hero = () => {
     toast.success("📞 Calling GOKUL Mobiles...", { duration: 1500 });
 
     setTimeout(() => {
-      window.location.href = "tel:+917449077343";
+      window.location.href = "tel:+917695948501";
     }, 1000);
   };
 

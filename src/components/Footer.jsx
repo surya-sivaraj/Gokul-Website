@@ -112,17 +112,17 @@ const Footer = () => {
             </div>
 
             <a
-              href="tel:7449077343"
+              href="tel:917695948501"
               onClick={(e) =>
                 handleRedirect(
                   e,
                   "📞 Calling GOKUL Mobiles...",
-                  "tel:7449077343"
+                  "tel:+917695948501"
                 )
               }
               className="flex items-center gap-3 font-semibold hover:text-blue-500 transition"
             >
-              📞 +91 7449077343
+              📞 +91 7695948501
             </a>
 
           </div>
