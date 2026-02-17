@@ -80,7 +80,8 @@ const Contact = () => {
                   <h4 className="font-semibold text-lg">Visit Our Shop</h4>
                   <p className="text-slate-600">
                     Gokul Mobiles & CCTV,<br/>
-                    Begarahalli Main Road, PeriyamPatti Dharmapuri,<br/>
+                    Begarahalli Main Road, Periyampatti,
+                     Dharmapuri,<br/>
                     Tamil Nadu - 635305
                   </p>
                 </div>
