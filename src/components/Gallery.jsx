@@ -1,7 +1,7 @@
 import { useState } from "react";
-import g1 from "../assets/work1.jpg";
+import g1 from "../assets/work2.jpg";
 import g2 from "../assets/work4.jpg";
-import g3 from "../assets/work2.jpg";
+import g3 from "../assets/work1.jpg";
 import g4 from "../assets/work5.jpg";
 
 const Gallery = () => {
