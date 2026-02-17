@@ -119,7 +119,7 @@ const Contact = () => {
             className="bg-white p-8 rounded-3xl shadow-xl space-y-6"
           >
             <h3 className="text-xl font-bold text-slate-900">
-              Send us a Message
+              For Enquiries & Free Service Consultation
             </h3>
 
             <div className="grid md:grid-cols-2 gap-4">
